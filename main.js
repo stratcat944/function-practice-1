@@ -79,10 +79,18 @@
 //=========== < Exercise 7  > ===========//
 //=========== <    Excite   > ===========//
 
-function excite(a) {
-	return a + "!!!";
-}
+// function excite(a) {
+// 	return a + "!!!";
+// }
+// 
+// console.log(excite("Hello"));
 
-console.log(excite("Hello"));
+
+//=========== < Exercise 8  > ===========//
+//=========== <     Sun     > ===========//
+
+
+
+
 
 
