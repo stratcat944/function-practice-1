@@ -39,11 +39,25 @@
 //=========== < Exercise 4  > ===========//
 //=========== <    Negate   > ===========//
 
-function negate(n) {
-	return n - (n * 2);
-}
+//function negate(n) {
+//	return n - (n * 2);
+//}
+//
+//console.log(negate(3));
+//console.log(negate(27));
+//console.log(negate(-7));
 
-console.log(negate(3));
-console.log(negate(27));
-console.log(negate(-7));
+
+//=========== < Exercise 5  > ===========//
+//=========== <   toArray   > ===========//
+
+//function toArray(x,y,z) {
+//	return [x,y,z];
+//}
+//
+//console.log(toArray(1,2,3));
+//console.log(toArray(29,5,78));
+//console.log(toArray("cat", "dog", "pig"));
+
+
 
