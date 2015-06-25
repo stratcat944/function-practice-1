@@ -60,4 +60,29 @@
 //console.log(toArray("cat", "dog", "pig"));
 
 
+//=========== < Exercise 6  > ===========//
+//=========== <Starts With A> ===========//
+
+// var startsWithA = function(string) {
+// 	if (string[0] === 'a') {
+// 		return true;
+// 	} else {
+// 		return false;
+// 	}
+// }
+// 
+// console.log(startsWithA ('asshole'));
+// console.log(startsWithA ('anger'));
+// console.log(startsWithA ('not'));
+
+
+//=========== < Exercise 7  > ===========//
+//=========== <    Excite   > ===========//
+
+function excite(a) {
+	return a + "!!!";
+}
+
+console.log(excite("Hello"));
+
 
